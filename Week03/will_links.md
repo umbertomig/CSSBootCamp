@@ -7,6 +7,7 @@ Enjoy some slides from this week!
 - Command Line Basics: No Slides
 - Version Control, Reproducibility, and Error: <https://savethevowels.org/talks/cssbc_versioncontrol.html>
 - Git Activity: <https://wstyler.ucsd.edu/docs/cssbc_git_activity.html>
+    - Don't worry, this activity's going to be super fun.
 - Networking and Remote Servers: <https://wstyler.ucsd.edu/talks/cssbc_somebodyelsescomputer.html>
 - Teaching for Research:
     - <https://wstyler.ucsd.edu/presentationdesign.html>
